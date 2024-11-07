@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Youssef Kamel</h1>
 
-#### I am an Electrical Engineer with a strong passion for Artificial Intelligence (AI), Machine Learning (ML), and Computer Vision. Throughout my career, I have been driven by a deep curiosity and a commitment to continuous learning, which has led me to explore and contribute to cutting-edge projects in these fields. <br>
+#### I am an Electrical Engineer with a strong passion for Artificial Intelligence (AI), Machine Learning (ML), Computer Vision (CV), and Natural Language Processing (NLP). Throughout my career, I have been driven by a deep curiosity and a commitment to continuous learning, which has led me to explore and contribute to cutting-edge projects in these fields. <br>
 
 #### I'm eager to contribute my abilities in modeling, analysis, visualization, and experimentation to enhance your results and provide solutions for your business. <br>
 
